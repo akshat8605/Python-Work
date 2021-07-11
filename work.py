@@ -1,2 +1,2 @@
 print("Hello Canitech")
-a=21
+a=32
